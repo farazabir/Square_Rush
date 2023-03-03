@@ -1,31 +1,13 @@
-# calculator
+# Square_Rush
 
-A minimal Calculator Using dart and flutter framework
+A hyper casual mobile game made with unity
 
 
-## Features
-- Calculate value 
-- Simple UI
+
 
 ## Gallery
- ![image](https://user-images.githubusercontent.com/62275863/214911739-417a56ab-7ab1-434f-926d-dffee42e6802.png)
-
-
-
-
-
-
-## What I learned ?
-- Concept of Class and Constructor
-- Using Constructor
-- Use of SetState
-- Using math-expression package
-
-## Installation
-
-1. Install [flutter](https://flutter.dev/docs/get-started/install)
-
-2. Run ```Flutter run``` in root directory.
+![game1](https://user-images.githubusercontent.com/62275863/222778159-819b423f-e46e-4552-bb1a-6268740a7a14.png)
+![game2](https://user-images.githubusercontent.com/62275863/222778175-4f288bb5-29a6-419a-b75f-bf53f7bd6ec3.png)
 
 ## Contributing
 It's an open source project feel free to contribute
